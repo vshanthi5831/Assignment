@@ -101,7 +101,6 @@ Return:
 
 ### 💬 Notes
 
-* No Spring Boot or Java setup is required.
 * This project focuses on **understanding webhooks**, **axios**, and **SQL solving logic**.
 * The webhook acts as your dynamic submission endpoint.
 * `axios` helps in sending structured POST requests easily.
